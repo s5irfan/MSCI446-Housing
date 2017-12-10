@@ -1,194 +1,194 @@
-Type,Q1,Q10,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q11,Q12
-Shared Apartments,0,0,0,0,1,0,0,0,0,0,0,0
-Shared Apartments,1,0,0,0,1,0,0,1,1,0,0,0
-Shared Apartments,1,0,0,1,1,0,1,2,2,0,0,1
-Shared Apartments,0,0,0,0,2,1,1,2,2,0,1,2
-Shared Apartments,0,1,1,0,2,1,0,0,1,0,0,3
-Luxury apartment,1,0,0,0,1,2,0,0,0,1,0,2
-Luxury apartment,0,0,2,0,2,2,2,1,1,1,0,3
-House,0,0,1,2,2,2,0,2,0,0,1,3
-House,0,0,0,3,3,2,0,1,3,0,1,2
-Shared Apartments,1,0,2,0,1,2,0,2,2,0,0,1
-Dorms,2,1,2,0,2,3,1,1,1,0,0,4
-House,0,0,2,3,3,2,0,1,1,0,0,4
-House,2,1,0,0,2,1,2,1,0,1,0,2
-Shared Apartments,1,1,1,0,2,0,1,0,1,1,1,2
-Luxury apartment,0,1,1,0,1,2,3,2,0,0,0,2
-House,1,1,1,0,1,2,0,0,4,1,1,3
-House,1,0,1,3,2,2,0,0,1,0,1,2
-Shared Apartments,1,0,1,0,2,2,0,2,4,1,0,1
-Shared Apartments,1,1,1,0,1,1,0,2,3,0,0,2
-Shared Apartments,1,1,1,0,1,2,1,1,1,0,1,0
-Dorms,0,0,1,0,1,1,1,2,3,0,1,3
-Shared Apartments,1,0,2,0,2,2,0,1,2,0,1,0
-Dorms,2,1,2,1,1,2,0,2,0,1,0,0
-Shared Apartments,0,0,1,1,1,0,0,2,0,0,1,3
-Single bedroom apartment,1,0,1,3,1,2,1,2,0,1,0,3
-Shared Apartments,1,1,0,0,1,0,0,1,0,0,0,2
-Luxury apartment,2,0,0,0,2,2,0,1,5,0,1,2
-Shared Apartments,1,0,0,0,2,2,0,0,2,0,0,2
-Single bedroom apartment,1,0,1,0,2,0,1,1,4,0,0,0
-House,0,0,0,0,2,0,0,2,0,1,0,1
-House,0,0,1,3,2,2,0,1,1,1,0,2
-House,2,1,1,0,2,2,1,0,1,1,1,2
-Shared Apartments,1,1,2,0,2,0,2,0,4,0,0,4
-Shared Apartments,0,1,0,1,3,0,0,2,1,0,0,2
-Luxury apartment,2,1,0,0,1,2,1,1,0,0,0,4
-Shared Apartments,0,0,0,0,2,0,0,0,2,0,0,1
-Shared Apartments,0,0,2,0,2,1,0,1,1,0,0,4
-House,1,1,1,0,1,0,0,2,4,0,1,4
-Luxury apartment,1,0,1,0,2,0,0,1,1,0,1,4
-Shared Apartments,2,0,1,1,2,2,0,1,1,2,0,0
-House,1,0,1,0,2,0,0,1,1,0,0,2
-House,0,1,1,1,1,1,0,0,5,0,1,4
-Shared Apartments,1,0,0,0,3,0,0,0,1,2,1,2
-Shared Apartments,1,1,1,1,1,0,1,2,1,1,0,4
-Shared Apartments,0,0,1,0,2,0,0,1,0,0,0,0
-Luxury apartment,0,0,1,1,1,2,0,2,0,2,0,4
-Shared Apartments,1,0,1,0,1,1,0,1,0,1,1,0
-House,1,1,0,0,3,2,3,0,1,0,1,4
-House,0,1,0,0,2,1,3,1,4,0,1,4
-Luxury apartment,0,1,1,3,1,2,1,0,2,1,0,2
-Single bedroom apartment,1,1,1,0,1,1,3,2,5,1,0,3
-Shared Apartments,1,0,0,0,1,1,0,0,1,0,0,2
-House,0,1,2,1,2,2,1,0,5,2,0,0
-Shared Apartments,1,0,0,0,2,2,0,1,1,0,0,3
-Shared Apartments,0,0,1,0,1,2,0,2,0,1,0,0
-Luxury apartment,1,0,0,0,1,0,3,1,3,1,0,0
-Shared Apartments,2,0,1,0,2,0,3,1,5,0,0,3
-Shared Apartments,2,0,1,0,2,0,3,1,5,0,0,3
-Shared Apartments,1,0,1,0,2,2,0,1,0,1,1,2
-Luxury apartment,3,1,2,0,3,3,3,2,0,1,0,4
-Dorms,0,0,0,0,1,2,1,1,1,0,0,2
-House,0,0,1,1,2,1,1,0,3,0,1,0
-Single bedroom apartment,0,0,1,1,2,1,1,0,1,3,1,3
-House,0,0,1,1,2,2,3,0,2,0,1,2
-House,2,1,1,1,2,0,0,2,0,1,1,2
-Shared Apartments,1,1,1,0,1,2,1,2,4,0,0,4
-Single bedroom apartment,0,1,1,1,2,2,0,1,0,0,0,3
-Dorms,2,0,0,1,1,3,0,1,1,1,1,4
-Shared Apartments,1,1,0,0,1,2,0,2,4,0,1,4
-Single bedroom apartment,2,0,2,1,2,2,0,0,6,3,1,2
-Single bedroom apartment,2,0,1,1,2,2,0,0,4,3,1,4
-House,0,0,1,1,3,1,2,0,4,0,0,2
-Shared Apartments,1,1,1,3,2,1,0,1,0,0,0,3
-House,0,1,0,3,1,2,1,1,3,0,0,4
-House,3,1,1,1,2,0,0,1,3,0,1,4
-House,0,1,1,2,2,1,0,2,0,0,0,3
-House,2,1,1,1,1,2,0,0,0,0,0,3
-Shared Apartments,1,0,0,0,2,0,0,0,5,0,0,4
-Dorms,2,1,0,1,2,0,0,1,1,0,0,4
-Dorms,0,0,1,0,2,3,0,1,3,0,1,3
-Dorms,1,0,1,0,1,0,3,1,3,0,0,0
-Dorms,0,1,1,0,2,2,3,1,4,0,1,2
-Dorms,0,0,1,0,1,1,1,1,2,0,0,4
-Single bedroom apartment,0,0,0,0,1,0,1,1,1,0,0,0
-Luxury apartment,0,0,1,1,1,0,3,2,3,0,1,0
-Dorms,0,0,1,0,2,2,0,2,2,1,0,2
-Dorms,0,0,0,0,1,2,0,0,4,1,1,2
-Dorms,0,0,1,0,2,1,0,0,3,0,0,2
-Dorms,0,0,0,0,2,0,0,0,4,0,1,4
-House,0,0,1,0,3,2,0,0,1,0,1,2
-Dorms,1,0,1,2,1,1,3,0,5,0,0,2
-Shared Apartments,0,0,1,1,3,2,0,0,4,0,0,2
-Shared Apartments,0,1,1,1,1,2,0,0,3,0,1,0
-House,0,0,1,0,2,1,0,0,1,0,1,3
-Dorms,0,0,0,0,2,0,3,0,1,0,0,2
-Dorms,0,0,0,0,1,2,3,0,1,0,0,2
-Shared Apartments,0,0,1,0,2,2,0,0,4,0,1,3
-House,2,1,2,0,1,0,0,2,1,0,0,1
-House,0,0,2,0,2,2,3,0,4,0,1,3
-Luxury apartment,0,0,0,0,3,0,1,0,1,0,0,0
-Dorms,0,0,1,0,3,1,0,0,0,0,0,3
-Shared Apartments,0,1,1,0,2,3,0,1,0,0,0,2
-Dorms,2,1,0,1,1,2,0,0,4,0,0,2
-Shared Apartments,1,0,1,1,3,0,1,0,1,1,0,4
-Shared Apartments,0,0,1,1,2,1,0,0,1,3,0,4
-Shared Apartments,1,1,1,0,2,2,0,2,1,3,0,3
-Shared Apartments,1,0,1,1,2,2,1,1,0,3,1,2
-Dorms,0,0,0,1,2,2,1,0,3,0,0,3
-House,0,0,1,0,2,2,0,1,3,0,1,2
-House,1,0,1,1,1,2,1,1,5,1,0,2
-Dorms,1,0,0,1,2,2,0,1,1,1,1,1
-Shared Apartments,1,0,1,2,2,2,2,0,1,0,1,2
-House,1,0,1,1,2,2,0,1,7,2,0,2
-Shared Apartments,1,1,1,0,1,2,0,0,4,0,0,3
-House,1,0,1,3,1,1,0,1,5,0,1,3
-Dorms,2,0,0,0,1,2,0,0,1,0,1,2
-Shared Apartments,0,0,2,0,1,2,1,0,2,0,0,2
-House,0,0,1,0,2,2,3,0,2,1,0,4
-Luxury apartment,0,0,0,0,2,0,0,1,1,1,1,2
-Luxury apartment,0,0,1,0,2,2,2,0,1,0,1,2
-House,0,1,1,0,1,0,1,2,3,3,0,2
-Luxury apartment,1,0,1,0,2,0,1,0,3,0,0,3
-Luxury apartment,2,0,1,0,1,2,0,1,0,1,0,4
-Dorms,0,0,0,2,3,2,0,2,2,0,1,1
-Shared Apartments,0,0,1,0,1,1,3,1,7,0,1,2
-Luxury apartment,0,0,1,1,2,3,0,1,2,0,0,2
-House,1,0,0,3,2,2,1,2,0,0,0,2
-House,1,0,1,0,2,0,0,0,3,1,0,0
-Shared Apartments,1,0,0,0,2,1,0,0,1,0,1,4
-Shared Apartments,0,1,1,1,3,2,0,0,0,0,0,0
-Single bedroom apartment,0,1,0,1,2,2,1,1,3,0,0,4
-Shared Apartments,0,0,1,0,2,2,1,0,1,1,1,2
-Dorms,2,0,2,3,2,1,1,1,0,1,1,1
-Shared Apartments,0,1,0,1,2,0,0,0,1,0,0,0
-Luxury apartment,0,0,1,0,2,0,0,2,1,0,1,2
-Shared Apartments,0,0,1,0,2,0,0,0,6,0,1,0
-Luxury apartment,0,1,1,0,2,1,1,0,2,1,0,2
-House,0,1,1,0,1,0,3,0,0,1,1,2
-Shared Apartments,1,0,0,2,2,2,0,1,1,0,0,4
-Luxury apartment,0,0,1,0,2,0,0,1,4,0,0,2
-Single bedroom apartment,1,1,1,1,1,2,0,1,4,3,0,4
-House,1,0,2,0,2,0,0,0,1,0,1,2
-Shared Apartments,1,0,0,2,1,0,1,1,1,2,0,3
-Single bedroom apartment,1,1,0,2,1,1,0,2,1,1,0,4
-Shared Apartments,2,1,1,0,2,0,0,0,0,0,0,0
-Single bedroom apartment,2,1,0,3,1,0,0,0,4,0,0,2
-Dorms,0,0,1,0,3,2,1,0,3,0,1,2
-Dorms,0,0,0,1,3,2,0,0,2,0,0,4
-Shared Apartments,2,0,1,0,2,1,1,1,0,0,0,2
-Shared Apartments,0,0,0,0,1,0,0,0,2,0,0,2
-Shared Apartments,1,1,0,1,1,0,0,1,0,1,0,2
-Shared Apartments,0,0,0,2,2,0,1,0,1,0,1,2
-Shared Apartments,0,1,1,1,2,2,0,1,1,0,1,4
-Dorms,0,1,1,1,2,2,2,2,2,0,0,2
-Dorms,0,0,1,0,3,0,3,1,1,1,0,2
-Dorms,0,0,2,1,2,2,1,0,2,1,1,2
-House,0,0,2,2,2,2,1,0,4,0,0,3
-Dorms,1,1,0,0,3,1,0,1,1,0,0,4
-Dorms,0,0,0,1,2,0,0,1,0,2,0,3
-Shared Apartments,0,0,0,0,2,2,0,0,3,0,0,2
-Dorms,2,0,1,1,1,2,1,1,3,1,0,4
-House,0,1,1,3,2,2,2,1,2,2,1,2
-Single bedroom apartment,2,0,1,1,3,1,2,0,2,3,0,1
-Dorms,2,0,2,1,3,3,3,0,3,2,0,0
-House,0,0,1,2,1,1,0,1,5,0,1,3
-Dorms,0,0,0,0,2,2,0,0,4,1,0,2
-House,0,1,0,0,3,2,3,2,1,1,1,0
-Dorms,0,0,0,0,1,2,3,0,0,0,0,3
-Dorms,0,0,1,2,2,1,0,2,4,0,0,3
-Dorms,2,0,1,1,2,1,1,0,0,1,0,2
-House,0,0,1,0,2,2,0,0,4,1,1,4
-Luxury apartment,0,0,0,0,1,2,0,2,2,0,1,0
-Dorms,2,0,0,2,1,0,0,1,1,0,0,4
-Single bedroom apartment,0,0,0,2,2,2,0,0,0,1,1,4
-House,0,0,1,0,1,2,0,2,3,0,1,4
-Shared Apartments,0,0,1,2,2,0,0,0,1,0,1,1
-Shared Apartments,0,0,2,0,1,2,3,2,2,0,0,1
-House,1,0,0,3,2,2,0,0,0,0,0,1
-House,0,0,1,2,2,0,0,0,0,0,1,2
-Shared Apartments,0,1,1,2,2,2,1,2,7,0,1,4
-House,1,0,1,2,1,0,3,0,4,0,0,3
-Shared Apartments,0,0,1,0,2,2,0,1,4,0,1,2
-House,1,0,0,0,1,2,1,1,1,0,0,4
-House,0,0,2,2,2,0,1,0,5,1,1,2
-Dorms,0,0,2,2,2,0,0,1,1,0,0,1
-Dorms,3,0,0,0,1,3,0,1,1,1,0,2
-Single bedroom apartment,0,1,0,0,3,3,0,1,1,0,1,2
-Dorms,0,0,1,0,3,2,3,0,2,1,1,1
-Shared Apartments,1,1,0,2,2,2,0,0,2,0,1,4
-Dorms,0,0,1,0,2,3,0,1,2,0,1,4
-Single bedroom apartment,1,0,0,2,2,1,0,1,4,0,0,4
-House,0,0,0,3,3,2,0,1,5,0,1,0
-Dorms,2,1,2,0,1,0,1,2,1,2,0,0
+Type,Social,Personality,Proximity,Productivity,Cleanliness,Budget over luxury,Late to class,Movie Genre,Relationship Status,Academic Preference,Food,Interests
+Shared Apartments,0,0,0,1,0,0,0,0,0,0,0,0
+Shared Apartments,1,0,0,1,0,0,1,1,0,0,0,0
+Shared Apartments,1,0,1,1,0,1,2,2,0,0,0,1
+Shared Apartments,0,0,0,2,1,1,2,2,0,0,1,2
+Shared Apartments,0,1,0,2,1,0,0,1,0,1,0,3
+Luxury apartment,1,0,0,1,2,0,0,0,1,0,0,2
+Luxury apartment,0,2,0,2,2,2,1,1,1,0,0,3
+House,0,1,2,2,2,0,2,0,0,0,1,3
+House,0,0,3,3,2,0,1,3,0,0,1,2
+Shared Apartments,1,2,0,1,2,0,2,2,0,0,0,1
+Dorms,2,2,0,2,3,1,1,1,0,1,0,4
+House,0,2,3,3,2,0,1,1,0,0,0,4
+House,2,0,0,2,1,2,1,0,1,1,0,2
+Shared Apartments,1,1,0,2,0,1,0,1,1,1,1,2
+Luxury apartment,0,1,0,1,2,3,2,0,0,1,0,2
+House,1,1,0,1,2,0,0,4,1,1,1,3
+House,1,1,3,2,2,0,0,1,0,0,1,2
+Shared Apartments,1,1,0,2,2,0,2,4,1,0,0,1
+Shared Apartments,1,1,0,1,1,0,2,3,0,1,0,2
+Shared Apartments,1,1,0,1,2,1,1,1,0,1,1,0
+Dorms,0,1,0,1,1,1,2,3,0,0,1,3
+Shared Apartments,1,2,0,2,2,0,1,2,0,0,1,0
+Dorms,2,2,1,1,2,0,2,0,1,1,0,0
+Shared Apartments,0,1,1,1,0,0,2,0,0,0,1,3
+Single bedroom apartment,1,1,3,1,2,1,2,0,1,0,0,3
+Shared Apartments,1,0,0,1,0,0,1,0,0,1,0,2
+Luxury apartment,2,0,0,2,2,0,1,5,0,0,1,2
+Shared Apartments,1,0,0,2,2,0,0,2,0,0,0,2
+Single bedroom apartment,1,1,0,2,0,1,1,4,0,0,0,0
+House,0,0,0,2,0,0,2,0,1,0,0,1
+House,0,1,3,2,2,0,1,1,1,0,0,2
+House,2,1,0,2,2,1,0,1,1,1,1,2
+Shared Apartments,1,2,0,2,0,2,0,4,0,1,0,4
+Shared Apartments,0,0,1,3,0,0,2,1,0,1,0,2
+Luxury apartment,2,0,0,1,2,1,1,0,0,1,0,4
+Shared Apartments,0,0,0,2,0,0,0,2,0,0,0,1
+Shared Apartments,0,2,0,2,1,0,1,1,0,0,0,4
+House,1,1,0,1,0,0,2,4,0,1,1,4
+Luxury apartment,1,1,0,2,0,0,1,1,0,0,1,4
+Shared Apartments,2,1,1,2,2,0,1,1,2,0,0,0
+House,1,1,0,2,0,0,1,1,0,0,0,2
+House,0,1,1,1,1,0,0,5,0,1,1,4
+Shared Apartments,1,0,0,3,0,0,0,1,2,0,1,2
+Shared Apartments,1,1,1,1,0,1,2,1,1,1,0,4
+Shared Apartments,0,1,0,2,0,0,1,0,0,0,0,0
+Luxury apartment,0,1,1,1,2,0,2,0,2,0,0,4
+Shared Apartments,1,1,0,1,1,0,1,0,1,0,1,0
+House,1,0,0,3,2,3,0,1,0,1,1,4
+House,0,0,0,2,1,3,1,4,0,1,1,4
+Luxury apartment,0,1,3,1,2,1,0,2,1,1,0,2
+Single bedroom apartment,1,1,0,1,1,3,2,5,1,1,0,3
+Shared Apartments,1,0,0,1,1,0,0,1,0,0,0,2
+House,0,2,1,2,2,1,0,5,2,1,0,0
+Shared Apartments,1,0,0,2,2,0,1,1,0,0,0,3
+Shared Apartments,0,1,0,1,2,0,2,0,1,0,0,0
+Luxury apartment,1,0,0,1,0,3,1,3,1,0,0,0
+Shared Apartments,2,1,0,2,0,3,1,5,0,0,0,3
+Shared Apartments,2,1,0,2,0,3,1,5,0,0,0,3
+Shared Apartments,1,1,0,2,2,0,1,0,1,0,1,2
+Luxury apartment,3,2,0,3,3,3,2,0,1,1,0,4
+Dorms,0,0,0,1,2,1,1,1,0,0,0,2
+House,0,1,1,2,1,1,0,3,0,0,1,0
+Single bedroom apartment,0,1,1,2,1,1,0,1,3,0,1,3
+House,0,1,1,2,2,3,0,2,0,0,1,2
+House,2,1,1,2,0,0,2,0,1,1,1,2
+Shared Apartments,1,1,0,1,2,1,2,4,0,1,0,4
+Single bedroom apartment,0,1,1,2,2,0,1,0,0,1,0,3
+Dorms,2,0,1,1,3,0,1,1,1,0,1,4
+Shared Apartments,1,0,0,1,2,0,2,4,0,1,1,4
+Single bedroom apartment,2,2,1,2,2,0,0,6,3,0,1,2
+Single bedroom apartment,2,1,1,2,2,0,0,4,3,0,1,4
+House,0,1,1,3,1,2,0,4,0,0,0,2
+Shared Apartments,1,1,3,2,1,0,1,0,0,1,0,3
+House,0,0,3,1,2,1,1,3,0,1,0,4
+House,3,1,1,2,0,0,1,3,0,1,1,4
+House,0,1,2,2,1,0,2,0,0,1,0,3
+House,2,1,1,1,2,0,0,0,0,1,0,3
+Shared Apartments,1,0,0,2,0,0,0,5,0,0,0,4
+Dorms,2,0,1,2,0,0,1,1,0,1,0,4
+Dorms,0,1,0,2,3,0,1,3,0,0,1,3
+Dorms,1,1,0,1,0,3,1,3,0,0,0,0
+Dorms,0,1,0,2,2,3,1,4,0,1,1,2
+Dorms,0,1,0,1,1,1,1,2,0,0,0,4
+Single bedroom apartment,0,0,0,1,0,1,1,1,0,0,0,0
+Luxury apartment,0,1,1,1,0,3,2,3,0,0,1,0
+Dorms,0,1,0,2,2,0,2,2,1,0,0,2
+Dorms,0,0,0,1,2,0,0,4,1,0,1,2
+Dorms,0,1,0,2,1,0,0,3,0,0,0,2
+Dorms,0,0,0,2,0,0,0,4,0,0,1,4
+House,0,1,0,3,2,0,0,1,0,0,1,2
+Dorms,1,1,2,1,1,3,0,5,0,0,0,2
+Shared Apartments,0,1,1,3,2,0,0,4,0,0,0,2
+Shared Apartments,0,1,1,1,2,0,0,3,0,1,1,0
+House,0,1,0,2,1,0,0,1,0,0,1,3
+Dorms,0,0,0,2,0,3,0,1,0,0,0,2
+Dorms,0,0,0,1,2,3,0,1,0,0,0,2
+Shared Apartments,0,1,0,2,2,0,0,4,0,0,1,3
+House,2,2,0,1,0,0,2,1,0,1,0,1
+House,0,2,0,2,2,3,0,4,0,0,1,3
+Luxury apartment,0,0,0,3,0,1,0,1,0,0,0,0
+Dorms,0,1,0,3,1,0,0,0,0,0,0,3
+Shared Apartments,0,1,0,2,3,0,1,0,0,1,0,2
+Dorms,2,0,1,1,2,0,0,4,0,1,0,2
+Shared Apartments,1,1,1,3,0,1,0,1,1,0,0,4
+Shared Apartments,0,1,1,2,1,0,0,1,3,0,0,4
+Shared Apartments,1,1,0,2,2,0,2,1,3,1,0,3
+Shared Apartments,1,1,1,2,2,1,1,0,3,0,1,2
+Dorms,0,0,1,2,2,1,0,3,0,0,0,3
+House,0,1,0,2,2,0,1,3,0,0,1,2
+House,1,1,1,1,2,1,1,5,1,0,0,2
+Dorms,1,0,1,2,2,0,1,1,1,0,1,1
+Shared Apartments,1,1,2,2,2,2,0,1,0,0,1,2
+House,1,1,1,2,2,0,1,7,2,0,0,2
+Shared Apartments,1,1,0,1,2,0,0,4,0,1,0,3
+House,1,1,3,1,1,0,1,5,0,0,1,3
+Dorms,2,0,0,1,2,0,0,1,0,0,1,2
+Shared Apartments,0,2,0,1,2,1,0,2,0,0,0,2
+House,0,1,0,2,2,3,0,2,1,0,0,4
+Luxury apartment,0,0,0,2,0,0,1,1,1,0,1,2
+Luxury apartment,0,1,0,2,2,2,0,1,0,0,1,2
+House,0,1,0,1,0,1,2,3,3,1,0,2
+Luxury apartment,1,1,0,2,0,1,0,3,0,0,0,3
+Luxury apartment,2,1,0,1,2,0,1,0,1,0,0,4
+Dorms,0,0,2,3,2,0,2,2,0,0,1,1
+Shared Apartments,0,1,0,1,1,3,1,7,0,0,1,2
+Luxury apartment,0,1,1,2,3,0,1,2,0,0,0,2
+House,1,0,3,2,2,1,2,0,0,0,0,2
+House,1,1,0,2,0,0,0,3,1,0,0,0
+Shared Apartments,1,0,0,2,1,0,0,1,0,0,1,4
+Shared Apartments,0,1,1,3,2,0,0,0,0,1,0,0
+Single bedroom apartment,0,0,1,2,2,1,1,3,0,1,0,4
+Shared Apartments,0,1,0,2,2,1,0,1,1,0,1,2
+Dorms,2,2,3,2,1,1,1,0,1,0,1,1
+Shared Apartments,0,0,1,2,0,0,0,1,0,1,0,0
+Luxury apartment,0,1,0,2,0,0,2,1,0,0,1,2
+Shared Apartments,0,1,0,2,0,0,0,6,0,0,1,0
+Luxury apartment,0,1,0,2,1,1,0,2,1,1,0,2
+House,0,1,0,1,0,3,0,0,1,1,1,2
+Shared Apartments,1,0,2,2,2,0,1,1,0,0,0,4
+Luxury apartment,0,1,0,2,0,0,1,4,0,0,0,2
+Single bedroom apartment,1,1,1,1,2,0,1,4,3,1,0,4
+House,1,2,0,2,0,0,0,1,0,0,1,2
+Shared Apartments,1,0,2,1,0,1,1,1,2,0,0,3
+Single bedroom apartment,1,0,2,1,1,0,2,1,1,1,0,4
+Shared Apartments,2,1,0,2,0,0,0,0,0,1,0,0
+Single bedroom apartment,2,0,3,1,0,0,0,4,0,1,0,2
+Dorms,0,1,0,3,2,1,0,3,0,0,1,2
+Dorms,0,0,1,3,2,0,0,2,0,0,0,4
+Shared Apartments,2,1,0,2,1,1,1,0,0,0,0,2
+Shared Apartments,0,0,0,1,0,0,0,2,0,0,0,2
+Shared Apartments,1,0,1,1,0,0,1,0,1,1,0,2
+Shared Apartments,0,0,2,2,0,1,0,1,0,0,1,2
+Shared Apartments,0,1,1,2,2,0,1,1,0,1,1,4
+Dorms,0,1,1,2,2,2,2,2,0,1,0,2
+Dorms,0,1,0,3,0,3,1,1,1,0,0,2
+Dorms,0,2,1,2,2,1,0,2,1,0,1,2
+House,0,2,2,2,2,1,0,4,0,0,0,3
+Dorms,1,0,0,3,1,0,1,1,0,1,0,4
+Dorms,0,0,1,2,0,0,1,0,2,0,0,3
+Shared Apartments,0,0,0,2,2,0,0,3,0,0,0,2
+Dorms,2,1,1,1,2,1,1,3,1,0,0,4
+House,0,1,3,2,2,2,1,2,2,1,1,2
+Single bedroom apartment,2,1,1,3,1,2,0,2,3,0,0,1
+Dorms,2,2,1,3,3,3,0,3,2,0,0,0
+House,0,1,2,1,1,0,1,5,0,0,1,3
+Dorms,0,0,0,2,2,0,0,4,1,0,0,2
+House,0,0,0,3,2,3,2,1,1,1,1,0
+Dorms,0,0,0,1,2,3,0,0,0,0,0,3
+Dorms,0,1,2,2,1,0,2,4,0,0,0,3
+Dorms,2,1,1,2,1,1,0,0,1,0,0,2
+House,0,1,0,2,2,0,0,4,1,0,1,4
+Luxury apartment,0,0,0,1,2,0,2,2,0,0,1,0
+Dorms,2,0,2,1,0,0,1,1,0,0,0,4
+Single bedroom apartment,0,0,2,2,2,0,0,0,1,0,1,4
+House,0,1,0,1,2,0,2,3,0,0,1,4
+Shared Apartments,0,1,2,2,0,0,0,1,0,0,1,1
+Shared Apartments,0,2,0,1,2,3,2,2,0,0,0,1
+House,1,0,3,2,2,0,0,0,0,0,0,1
+House,0,1,2,2,0,0,0,0,0,0,1,2
+Shared Apartments,0,1,2,2,2,1,2,7,0,1,1,4
+House,1,1,2,1,0,3,0,4,0,0,0,3
+Shared Apartments,0,1,0,2,2,0,1,4,0,0,1,2
+House,1,0,0,1,2,1,1,1,0,0,0,4
+House,0,2,2,2,0,1,0,5,1,0,1,2
+Dorms,0,2,2,2,0,0,1,1,0,0,0,1
+Dorms,3,0,0,1,3,0,1,1,1,0,0,2
+Single bedroom apartment,0,0,0,3,3,0,1,1,0,1,1,2
+Dorms,0,1,0,3,2,3,0,2,1,0,1,1
+Shared Apartments,1,0,2,2,2,0,0,2,0,1,1,4
+Dorms,0,1,0,2,3,0,1,2,0,0,1,4
+Single bedroom apartment,1,0,2,2,1,0,1,4,0,0,0,4
+House,0,0,3,3,2,0,1,5,0,0,1,0
+Dorms,2,2,0,1,0,1,2,1,2,1,0,0
